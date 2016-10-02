@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1369321911 source:t:\trwc\bad check prog\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
